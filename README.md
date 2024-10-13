@@ -4,10 +4,10 @@ The Automatic Garbage Collector is a smart robotic system designed to detect, co
 
 ## Project Images
 
-![Project Image 1](images/project_image_1.jpg)  
+![Project Image 1](Electronics Lab Project/Picsart_24-10-09_16-35-27-431~2.jpg)  
 *Figure 1: Front view of the Automatic Garbage Collector.*
 
-![Project Image 2](images/project_image_2.jpg)  
+![Project Image 2](Electronics Lab Project/Picsart_24-10-09_16-38-26-627~2.jpg)  
 *Figure 2: Side view showing the robotic arm and sensors.*
 
 ## Table of Contents
