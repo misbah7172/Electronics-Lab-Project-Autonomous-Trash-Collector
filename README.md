@@ -2,6 +2,14 @@
 
 The Automatic Garbage Collector is a smart robotic system designed to detect, collect, and dispose of trash autonomously. It integrates AI-based object detection, environmental monitoring, and remote control capabilities. The system uses an ESP32 microcontroller for control, a laptop webcam for AI-based object detection, and various sensors for navigation and monitoring.
 
+## Project Images
+
+![Project Image 1](images/project_image_1.jpg)  
+*Figure 1: Front view of the Automatic Garbage Collector.*
+
+![Project Image 2](images/project_image_2.jpg)  
+*Figure 2: Side view showing the robotic arm and sensors.*
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
