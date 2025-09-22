@@ -6,7 +6,7 @@ The Automatic Garbage Collector is a smart robotic system designed to detect, co
 
 ![Project Image 1](Electronics-Lab-Project/Picsart_24-10-09_16-35-27-431~2.jpg)  
 
-![Project Image 2](Electronics-Lab-Project/Picsart_24-10-09_16-38-26-627~2.jpg)
+![Project Image 2](Electronics-Lab-Project/PXL_20241007_064722111.NIGHT.jpg)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -50,6 +50,10 @@ The Automatic Garbage Collector project is designed to help with waste managemen
 Include a circuit diagram here, showing connections between the ESP32, motor driver, sensors, laptop, and other components.
 
 ## Installation
+
+### Environment Setup 
+
+- run this : python -m pip install -r requirements.txt
 
 ### Prerequisites
 
